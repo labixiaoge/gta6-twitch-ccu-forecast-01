@@ -1,0 +1,9 @@
+# Kit, fetched competition data and local test outputs are not part
+# of the entry and must never be committed or pushed.
+kit/
+out/
+out1/
+out2/
+NOTES.md
+__pycache__/
+*.pyc
